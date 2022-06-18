@@ -24,15 +24,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--   Twitter -->
-  <a href="https://twitter.com/codinglucas9121" target="blank">
+  <a href="https://twitter.com/codinglucas9121" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@codinglucas9121" height="30" width="40" />
   </a>
 <!--   Linkedin -->
-  <a href="https://linkedin.com/in/lucas-carlos-915b23127" target="blank">
+  <a href="https://linkedin.com/in/lucas-carlos-915b23127" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas-carlos-915b23127" height="30" width="40" />
   </a>
 <!--   HackerRank -->
-  <a href="https://www.hackerrank.com/lucas2carlos" target="blank">
+  <a href="https://www.hackerrank.com/lucas2carlos" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lucas2carlos" height="30" width="40" />
   </a>
 </p>
