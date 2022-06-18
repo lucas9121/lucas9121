@@ -97,13 +97,13 @@
 <!-- //////////// Github picture ////////////// -->
 <!-- Stats -->
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas9121&show_icons=true&theme=dark&title_color=ededed&text_color=ededed&locale=en" alt="lucas9121" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas9121&show_icons=true&theme=github_dark&title_color=ededed&text_color=ededed&locale=en" alt="lucas9121" />
 </p>
 <!-- Most Used Language -->
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas9121&show_icons=true&theme=dark&title_color=ededed&text_color=ededed&locale=en&layout=compact" alt="lucas9121" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas9121&show_icons=true&theme=github_dark&title_color=ededed&text_color=ededed&locale=en&layout=compact" alt="lucas9121" />
 </p>
 <!-- Longest Streak -->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas9121&theme=dark" alt="lucas9121" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas9121&theme=highcontrast" alt="lucas9121" />
 </p>
