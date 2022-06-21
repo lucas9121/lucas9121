@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **lucas2carlos@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ba3YCzVuV4zAe8ezGP-2aKBnFgN65z2W/view](https://drive.google.com/file/d/1Ba3YCzVuV4zAe8ezGP-2aKBnFgN65z2W/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ba3YCzVuV4zAe8ezGP-2aKBnFgN65z2W/view)
 
 <!-- /////////// Contact info //////////// -->
 <h3 align="left">Connect with me:</h3>
