@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Gamehub](https://github.com/lucas9121/Gamehub)
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://lucas9121.github.io/My-Portfolio/)
 
