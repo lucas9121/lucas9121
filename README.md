@@ -79,7 +79,7 @@
 <!--   Mocha -->
   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
-  </a> 
+  </a>
 <!--   MongoDb -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -91,7 +91,11 @@
 <!--   Postman -->
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
+  </a>
+  <!--   Photoshop -->
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+ </a>
 </p>
 
 <!-- //////////// Github picture ////////////// -->
