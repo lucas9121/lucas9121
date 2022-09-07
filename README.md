@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://lucas9121.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://lucas-carlos-portfolio.netlify.app/)
 
 - 💬 Ask me about **my projects**
 
