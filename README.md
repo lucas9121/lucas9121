@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=lucas9121&label=Profile%20views&color=0e75b6&style=flat" alt="lucas9121" />
 </p>
 
-- 🔭 I’m currently working on [Chess Game](https://github.com/lucas9121/Chess)
+- 🔭 I’m currently working on [Psych Byte](https://github.com/lucas9121/favorite-quotes)
 
 - 🌱 I’m currently learning **React**
 
