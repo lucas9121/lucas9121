@@ -36,9 +36,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lucas2carlos" height="30" width="40" />
   </a>
   <!--   LeetCode -->
-  <a href="https://leetcode.com/lucas9121/" target="_blank">
+<!--   <a href="https://leetcode.com/lucas9121/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="leetcode" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 <!-- /////////////Tech learned/////////////// -->
